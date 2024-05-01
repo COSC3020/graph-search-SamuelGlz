@@ -41,4 +41,4 @@ function depthFirstSearch(graph, startNode, targetNode) {
     return finalPath;
 }
 
-//console.log(depthFirstSearch([[0,1,0],[1,0,1],[0,0,1]],1,2))
+//console.log(depthFirstSearch([[0,1],[1,2],[0,1,2]],0,2))

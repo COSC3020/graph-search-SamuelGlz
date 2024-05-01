@@ -30,3 +30,5 @@ answer, including your reasoning, to this markdown file.
 ## Bonus
 
 Implement and analyze breadth-first search.
+
+For my implementation of Depth First Search the worst case scenario run time will be $\Theta$ (|V| + |E|). This run time is because in the worst case scenario the algorithm will run through and check every vertex and every edge that is available.
